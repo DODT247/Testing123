@@ -10,6 +10,12 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Hello world, this is my fiurst commit to GITHUB!")
+        
+        // some changes
+        Rectangle()
+            .frame(width: 200, height: 45)
+            .cornerRadius(50)
+            .foregroundColor(.blue)
     }
 }
 
