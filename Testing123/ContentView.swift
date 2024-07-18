@@ -16,6 +16,9 @@ struct ContentView: View {
             .frame(width: 200, height: 45)
             .cornerRadius(50)
             .foregroundColor(.blue)
+        
+        
+        Text("this is another change my guuuuuuuy!!")
     }
 }
 
